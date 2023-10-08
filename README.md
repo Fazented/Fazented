@@ -4,13 +4,11 @@ Go check out my website [finn.nz](https://finn.nz)
 ![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazented&layout=compact)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fazented" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fazented&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fazented&layout=compact&langs_count=10&show_icons=true&theme=tokyonight&card_width=320" />
 </a>
 
 <!---
