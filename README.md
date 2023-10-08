@@ -8,8 +8,7 @@ Go check out my website [finn.nz](https://finn.nz)
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fazented&layout=compact&langs_count=8&show_icons=true&theme=tokyonight&card_width=320" />
 </a>
 
-
-
+<br>
 
 <a href="https://github.com/Fazented/personal=site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fazented&repo=personal-site&theme=tokyonight" />
