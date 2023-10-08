@@ -13,8 +13,8 @@ Go check out my website [finn.nz](https://finn.nz)
 <a href="https://github.com/Fazented/personal=site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fazented&repo=personal-site&theme=tokyonight&show_owner=true" />
 </a>
-<a href="https://github.com/Fazented/webv4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fazented&repo=webv4&theme=tokyonight&show_owner=true" />
+<a href="https://github.com/rollestoncollege/webv4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rollestoncollege&repo=webv4&theme=tokyonight&show_owner=true" />
 </a>
 
 
