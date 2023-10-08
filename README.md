@@ -1,9 +1,10 @@
-### Hi there - This is testing the stats themes
-
+### Hi there - I'm Finn Masters
+go look at my website [finn.nz](https://finn.nz)
 tokyonight Theme
 
 ![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=tokyonight)
 
+<!---
 onedark Theme
 
 ![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=onedark)
@@ -15,3 +16,4 @@ synthwave Theme
 dracula Theme
 
 ![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=dracula)
+--->
