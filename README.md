@@ -1,6 +1,5 @@
 ### Hi there - I'm Finn Masters
 go look at my website [finn.nz](https://finn.nz)
-tokyonight Theme
 
 ![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=tokyonight)
 
