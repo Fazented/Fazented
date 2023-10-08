@@ -17,11 +17,11 @@ Go check out my website [finn.nz](https://finn.nz)
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rollestoncollege&repo=webv4&theme=tokyonight&show_owner=true" />
 </a>
 
+[![Fazented's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fazented)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fazented&repo=personal-site&theme=tokyonight)](https://github.com/Fazented/personal-site)
-
-![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=tokyonight)
-
+Made with
 https://github.com/anuraghazra/github-readme-stats
 --->
