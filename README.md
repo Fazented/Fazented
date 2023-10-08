@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hi there - This is testing the stats themes
 
-<!--
-**Fazented/Fazented** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dark Theme
 
-Here are some ideas to get you started:
+![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+radical Theme
+
+![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=radical)
+
+merko Theme
+
+![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=merko)
+
+gruvbox Theme
+
+![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=gruvbox)
+
+tokyonight Theme
+
+![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=tokyonight)
+
+onedark Theme
+
+![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=onedark)
+
+cobalt Theme
+
+![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=cobalt)
+
+synthwave Theme
+
+![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=synthwave)
+
+highcontrast Theme
+
+![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=highcontrast)
+
+dracula Theme
+
+![Finn's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=dracula)
