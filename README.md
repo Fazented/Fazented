@@ -10,7 +10,7 @@ Go check out my website [finn.nz](https://finn.nz)
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fazented&repo=personal-site)](https://github.com/Fazented/personal-site&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fazented&repo=personal-site&theme=tokyonight)](https://github.com/Fazented/personal-site)
 
 
 
