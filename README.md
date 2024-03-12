@@ -1,5 +1,5 @@
-### Hi there - I'm Finn Masters
-Go check out my website [finn.nz](https://finn.nz)
+### Hi there! - I'm Finn Masters
+Go check out my website, [finn.nz](https://finn.nz) (no longer updated)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fazented&show_icons=true&theme=tokyonight&rank_icon=percentile&card_width=290" />
